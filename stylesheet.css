@@ -22,16 +22,16 @@ a {
   margin: 0 auto;
 }
 
-/*@font-face {
+@font-face {
   font-family: bebasneue;
-  src: url(BebasNeue-Regular.ttf);*/
+  src: url(BebasNeue-Regular.ttf);
 }
 
 .top-wrapper {
   padding: 180px 0 200px 0;
   background-image: url(BG.jpg);
   background-size: cover;
-  color:black;
+  color: rgba(255, 255, 255);
   text-align: left;
 }
 
