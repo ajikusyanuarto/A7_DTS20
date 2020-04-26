@@ -33,18 +33,21 @@ a {
   background-size: cover;
   text-align: left;
   color: black;
-  letter-spacing: 5px;
+  letter-spacing: 2px;
+  font-family: "BebasNeue";
 }
 
 .top-wrapper h1 {
   opacity: 0.7;
   font-size: 40px;
   margin-bottom: 10px;
+  font-family: "BebasNeue";
 }
 
 .top-wrapper h3 {
   opacity: 0.7;
-  letter-spacing: 5px;
+  font-family: "BebasNeue";
+  letter-spacing: 2px;
 }
 
 .top-wrapper p {
